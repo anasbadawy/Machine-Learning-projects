@@ -1,2 +1,2 @@
-# Machine-learning-projects
+# Machine Learning projects
 Anomly Detection on breast-cancer - Classification Problem
